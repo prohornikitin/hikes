@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2023-07-05T22:07:43.102Z</time>
+	</metadata>
+	<trk>
+		<name>1</name>
+		<trkseg>
+			<trkpt lat="56.740204" lon="39.460230"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.741922" lon="39.455209"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.744558" lon="39.441347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.750276" lon="39.433279"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.752864" lon="39.421864"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.757304" lon="39.394538"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.762415" lon="39.393110"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.763121" lon="39.380922"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.782968" lon="39.369850"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.786542" lon="39.351654"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.784684" lon="39.344981"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.785554" lon="39.342384"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.792486" lon="39.328340"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.790632" lon="39.312515"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.792042" lon="39.284191"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789221" lon="39.271660"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.797400" lon="39.253464"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.802288" lon="39.243507"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

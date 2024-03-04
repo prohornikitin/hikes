@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-01-10T22:43:59.781Z</time>
+	</metadata>
+	<trk>
+		<name>Fastest</name>
+		<trkseg>
+			<trkpt lat="56.792646" lon="39.328225"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.793452" lon="39.327493"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.791016" lon="39.316294"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.792239" lon="39.299300"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789728" lon="39.276125"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789878" lon="39.270976"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.794535" lon="39.264882"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.796423" lon="39.253981"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.798612" lon="39.249690"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.799985" lon="39.243681"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.802860" lon="39.242308"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

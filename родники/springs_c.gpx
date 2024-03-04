@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<gpx version="1.1" creator="rconv.exe: OziExplorer WPT and PLT to GPX converter">
+ <metadata>
+  <name>springs_c</name>
+  <desc>Сектор C</desc>
+  <bounds minlat="55.56704" maxlat="55.90254" minlon="37.90853" maxlon="39.849259"/>
+  <xlink href="Сектор C.wpt"/>
+ </metadata>
+ <wpt lat="55.71898" lon="37.90853">
+  <ele>131.064</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C01</name>
+  <desc>27-НОЯ-10 10:40:53</desc>
+  <xdesc>27-НОЯ-10 10:40:53<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.732758" lon="37.961203">
+  <ele>130.1496</ele>
+  <time>2006-04-03T10:34:05.298Z</time>
+  <name>C02</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.72624" lon="37.95445">
+  <ele>124.3584</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C03</name>
+  <desc>27-НОЯ-10 11:41:17</desc>
+  <xdesc>27-НОЯ-10 11:41:17<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.670149" lon="38.142296">
+  <ele>135.0264</ele>
+  <time>2006-04-03T10:34:05.298Z</time>
+  <name>C04A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.66874" lon="38.17119">
+  <ele>138.0744</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C04B</name>
+  <desc>Источник святого Никиты</desc>
+  <xdesc>Источник святого Никиты<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.6036" lon="38.51251">
+  <ele>137.16</ele>
+  <time>2006-10-11T19:48:46.137Z</time>
+  <name>C05</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.72726" lon="38.78022">
+  <ele>126.1872</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C06</name>
+  <desc>19-ОКТ-10 11:19:12</desc>
+  <xdesc>19-ОКТ-10 11:19:12<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.624216" lon="38.784657">
+  <time>2014-10-15T15:20:11.656Z</time>
+  <name>C07</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Waypoing</sym>
+ </wpt>
+ <wpt lat="55.588927" lon="38.872336">
+  <ele>120.0912</ele>
+  <time>2006-04-03T10:34:05.306Z</time>
+  <name>C08</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.58062" lon="39.06546">
+  <ele>122.2248</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C09</name>
+  <desc>02-ФЕВ-12 11:25:38</desc>
+  <xdesc>02-ФЕВ-12 11:25:38<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.606156" lon="39.117418">
+  <ele>134.112</ele>
+  <time>2006-04-03T10:34:05.306Z</time>
+  <name>C10</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.68448" lon="39.27168">
+  <ele>131.9784</ele>
+  <time>2006-10-02T10:07:31.045Z</time>
+  <name>C11</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.58825" lon="39.34425">
+  <ele>134.112</ele>
+  <time>2007-07-08T10:32:07.172Z</time>
+  <name>C12A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.595414" lon="39.342265">
+  <ele>138.9888</ele>
+  <time>2006-04-03T10:34:05.306Z</time>
+  <name>C12B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.72257" lon="39.34962">
+  <ele>143.5608</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C13A</name>
+  <desc>02-ФЕВ-11 12:57:44</desc>
+  <xdesc>02-ФЕВ-11 12:57:44<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.72391" lon="39.35391">
+  <ele>143.5608</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C13B</name>
+  <desc>02-ФЕВ-11 12:20:09</desc>
+  <xdesc>02-ФЕВ-11 12:20:09<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.683653" lon="39.381731">
+  <ele>131.9784</ele>
+  <time>2006-04-03T10:34:05.306Z</time>
+  <name>C14</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.62299" lon="39.39992">
+  <ele>126.492</ele>
+  <time>2007-07-08T10:32:07.077Z</time>
+  <name>C15</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.90239" lon="39.46378">
+  <ele>109.1184</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C16</name>
+  <desc>07-ОКТ-11 17:34:15</desc>
+  <xdesc>07-ОКТ-11 17:34:15<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.637644" lon="39.532313">
+  <ele>124.0536</ele>
+  <time>2006-04-03T10:34:05.306Z</time>
+  <name>C17</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.56704" lon="39.60053">
+  <ele>128.6256</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C18</name>
+  <desc>06-ИЮЛ-09 9:05:27</desc>
+  <xdesc>06-ИЮЛ-09 9:05:27<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.90254" lon="39.65742">
+  <ele>108.204</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>C19</name>
+  <desc>07-ОКТ-11 11:58:59</desc>
+  <xdesc>07-ОКТ-11 11:58:59<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.793895" lon="39.849259">
+  <time>2010-07-14T15:22:13.808Z</time>
+  <name>C20</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <xsct>
+  <name>1</name>
+  <desc></desc>
+  <xwptref name="C01"/>
+  <xwptref name="C02"/>
+  <xwptref name="C03"/>
+  <xwptref name="C04A"/>
+  <xwptref name="C04B"/>
+  <xwptref name="C05"/>
+  <xwptref name="C06"/>
+  <xwptref name="C07"/>
+  <xwptref name="C08"/>
+  <xwptref name="C09"/>
+  <xwptref name="C10"/>
+  <xwptref name="C11"/>
+  <xwptref name="C12A"/>
+  <xwptref name="C12B"/>
+  <xwptref name="C13A"/>
+  <xwptref name="C13B"/>
+  <xwptref name="C14"/>
+  <xwptref name="C15"/>
+  <xwptref name="C16"/>
+  <xwptref name="C17"/>
+  <xwptref name="C18"/>
+  <xwptref name="C19"/>
+  <xwptref name="C20"/>
+ </xsct>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2023-07-05T21:54:19.638Z</time>
+	</metadata>
+	<trk>
+		<name>1 Обход болота</name>
+		<trkseg>
+			<trkpt lat="56.602493" lon="39.038780"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.595129" lon="39.069357"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.592908" lon="39.097595"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.592341" lon="39.126863"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.591966" lon="39.149883"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.586788" lon="39.148579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.583432" lon="39.136262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.577254" lon="39.132651"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.571438" lon="39.121235"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.568894" lon="39.113903"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.562273" lon="39.111953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.558371" lon="39.106350"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.557159" lon="39.107976"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

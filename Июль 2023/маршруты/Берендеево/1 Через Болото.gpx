@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2023-07-05T21:54:21.847Z</time>
+	</metadata>
+	<trk>
+		<name>1 Через Болото</name>
+		<trkseg>
+			<trkpt lat="56.601508" lon="39.042149"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.596207" lon="39.066309"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.593939" lon="39.076179"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.592285" lon="39.074377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.585101" lon="39.082874"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.570634" lon="39.072574"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.564177" lon="39.067984"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.562545" lon="39.074764"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.559979" lon="39.071739"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.551488" lon="39.096479"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.555357" lon="39.104583"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.557224" lon="39.108002"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

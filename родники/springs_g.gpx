@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<gpx version="1.1" creator="rconv.exe: OziExplorer WPT and PLT to GPX converter">
+ <metadata>
+  <name>springs_g</name>
+  <desc>Сектор G</desc>
+  <bounds minlat="54.424828" maxlat="55.58833" minlon="36.50951" maxlon="37.5631"/>
+  <xlink href="Сектор G.wpt"/>
+ </metadata>
+ <wpt lat="55.58833" lon="37.5311">
+  <ele>164.2872</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G01A</name>
+  <desc>21-АПР-12 10:09:01</desc>
+  <xdesc>21-АПР-12 10:09:01<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.58047" lon="37.54997">
+  <ele>174.6504</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G01B</name>
+  <desc>21-АПР-12 10:53:39</desc>
+  <xdesc>21-АПР-12 10:53:39<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.57441" lon="37.5365">
+  <ele>228.6</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G01D</name>
+  <desc>21-АПР-12 11:50:52</desc>
+  <xdesc>21-АПР-12 11:50:52<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.56955" lon="37.53614">
+  <ele>231.9528</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G01F</name>
+  <desc>21-АПР-12 12:32:41</desc>
+  <xdesc>21-АПР-12 12:32:41<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.57893" lon="37.5631">
+  <ele>164.592</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G01C</name>
+  <desc>21-АПР-12 11:15:46</desc>
+  <xdesc>21-АПР-12 11:15:46<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.52772" lon="37.47431">
+  <ele>153.6192</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G02</name>
+  <desc>22-FEB-08 9:34:02</desc>
+  <xdesc>22-FEB-08 9:34:02<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.58495" lon="37.33567">
+  <ele>168.2496</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G03</name>
+  <desc>29-МАР-13 11:52:39</desc>
+  <xdesc>29-МАР-13 11:52:39<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.51206" lon="37.41304">
+  <ele>169.4688</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G04</name>
+  <desc>16-МАЙ-12 10:11:56</desc>
+  <xdesc>16-МАЙ-12 10:11:56<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.44874" lon="37.49811">
+  <ele>149.9616</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G05</name>
+  <desc>22-FEB-08 13:10:52</desc>
+  <xdesc>22-FEB-08 13:10:52<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.46328" lon="37.16692">
+  <ele>180.1368</ele>
+  <time>2006-09-30T09:37:47.438Z</time>
+  <name>G06</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.46081" lon="37.20675">
+  <ele>164.2872</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G07A</name>
+  <desc>17-ОКТ-09 11:47:36</desc>
+  <xdesc>17-ОКТ-09 11:47:36<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.460452" lon="37.188082">
+  <ele>171.9072</ele>
+  <time>2006-04-03T10:34:05.376Z</time>
+  <name>G07B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.44173" lon="37.31566">
+  <ele>160.6296</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G08</name>
+  <desc>10-НОЯ-10 11:30:25</desc>
+  <xdesc>10-НОЯ-10 11:30:25<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.42809" lon="37.19265">
+  <ele>173.4312</ele>
+  <time>2006-09-30T09:37:47.542Z</time>
+  <name>G09</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.366906" lon="37.489414">
+  <ele>166.116</ele>
+  <time>2010-03-25T16:30:31.095Z</time>
+  <name>G10</name>
+  <desc>24-МАР-10</desc>
+  <xdesc>24-МАР-10<br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.436909" lon="37.031887">
+  <ele>182.88</ele>
+  <time>2006-04-03T10:34:05.376Z</time>
+  <name>G11</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.31828" lon="37.38253">
+  <ele>153.924</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G12N</name>
+  <desc>24-МАР-10 12:18:15</desc>
+  <xdesc>24-МАР-10 12:18:15<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.31762" lon="37.38239">
+  <ele>154.2288</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G12V</name>
+  <desc>24-МАР-10 12:25:09</desc>
+  <xdesc>24-МАР-10 12:25:09<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.3227" lon="37.29216">
+  <ele>172.8216</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G13</name>
+  <desc>21-JAN-08 13:35:39</desc>
+  <xdesc>21-JAN-08 13:35:39<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.30944" lon="37.37414">
+  <ele>153.924</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G14A</name>
+  <desc>21-JAN-08 16:35:04</desc>
+  <xdesc>21-JAN-08 16:35:04<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.31097" lon="37.37397">
+  <ele>154.5336</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G14B</name>
+  <desc>21-JAN-08 16:27:35</desc>
+  <xdesc>21-JAN-08 16:27:35<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.312068" lon="37.37198">
+  <ele>153.924</ele>
+  <time>2006-04-03T10:34:05.376Z</time>
+  <name>G15</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.28376" lon="37.403941">
+  <ele>168.8592</ele>
+  <time>2006-04-03T10:34:05.376Z</time>
+  <name>G16</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.271064" lon="37.369787">
+  <ele>178.9176</ele>
+  <time>2006-04-03T10:34:05.376Z</time>
+  <name>G17</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.24817" lon="37.20439">
+  <ele>182.5752</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G18</name>
+  <desc>24-DEC-07 12:16:57</desc>
+  <xdesc>24-DEC-07 12:16:57<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.39479" lon="36.97824">
+  <ele>188.6712</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G19</name>
+  <desc>22-NOV-07 13:36:10</desc>
+  <xdesc>22-NOV-07 13:36:10<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.2947" lon="37.12707">
+  <ele>195.072</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G20</name>
+  <desc>28-DEC-07 9:34:04</desc>
+  <xdesc>28-DEC-07 9:34:04<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.29184" lon="37.13769">
+  <ele>197.8152</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G21</name>
+  <desc>24-DEC-07 10:13:29</desc>
+  <xdesc>24-DEC-07 10:13:29<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.29494" lon="37.00116">
+  <ele>199.644</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G22</name>
+  <desc>28-DEC-07 13:48:16</desc>
+  <xdesc>28-DEC-07 13:48:16<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.28363" lon="36.95393">
+  <ele>179.2224</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G23</name>
+  <desc>04-DEC-07 13:53:06</desc>
+  <xdesc>04-DEC-07 13:53:06<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.28398" lon="36.93235">
+  <ele>188.976</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G24</name>
+  <desc>04-DEC-07 13:01:46</desc>
+  <xdesc>04-DEC-07 13:01:46<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.28152" lon="36.90321">
+  <ele>180.1368</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G25</name>
+  <desc>04-DEC-07 11:59:20</desc>
+  <xdesc>04-DEC-07 11:59:20<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.34621" lon="36.74204">
+  <ele>158.8008</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G26A</name>
+  <desc>13-NOV-08 15:56:04</desc>
+  <xdesc>13-NOV-08 15:56:04<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.34528" lon="36.74394">
+  <ele>158.8008</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G26B</name>
+  <desc>13-NOV-08 15:49:46</desc>
+  <xdesc>13-NOV-08 15:49:46<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.33623" lon="36.73683">
+  <ele>160.02</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G27A</name>
+  <desc>13-NOV-08 15:30:10</desc>
+  <xdesc>13-NOV-08 15:30:10<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.33444" lon="36.73368">
+  <ele>159.1056</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G27B</name>
+  <desc>13-NOV-08 13:56:00</desc>
+  <xdesc>13-NOV-08 13:56:00<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.329857" lon="36.730639">
+  <ele>167.9448</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G27C</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.32996" lon="36.73412">
+  <ele>158.1912</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G27D</name>
+  <desc>13-NOV-08 13:35:57</desc>
+  <xdesc>13-NOV-08 13:35:57<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.314968" lon="36.759296">
+  <ele>156.972</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G28</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.31312" lon="36.763827">
+  <ele>155.1432</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G29</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.31021" lon="36.765393">
+  <ele>155.1432</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G30</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.294073" lon="36.775716">
+  <ele>153.924</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G31</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.285318" lon="36.782377">
+  <ele>155.1432</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G32A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.286476" lon="36.780376">
+  <ele>155.1432</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G32B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.290487" lon="36.774657">
+  <ele>155.1432</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G32C</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.28416" lon="36.82983">
+  <ele>177.0888</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G33</name>
+  <desc>02-OCT-10 11:56:32</desc>
+  <xdesc>02-OCT-10 11:56:32<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.27083" lon="36.78234">
+  <ele>176.784</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G34A</name>
+  <desc>26-ОКТ-09 11:40:59</desc>
+  <xdesc>26-ОКТ-09 11:40:59<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.27093" lon="36.78214">
+  <ele>180.1368</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G34B</name>
+  <desc>26-ОКТ-09 12:29:19</desc>
+  <xdesc>26-ОКТ-09 12:29:19<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.292683" lon="36.701617">
+  <ele>166.116</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G35</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.281853" lon="36.715355">
+  <ele>170.0784</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G36A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.284176" lon="36.71031">
+  <ele>167.9448</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G36B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.24618" lon="36.86326">
+  <ele>152.4</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G37</name>
+  <desc>23-ОКТ-10 12:37:52</desc>
+  <xdesc>23-ОКТ-10 12:37:52<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.24276" lon="36.88523">
+  <ele>149.352</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G38V</name>
+  <desc>23-ОКТ-10 13:18:45</desc>
+  <xdesc>23-ОКТ-10 13:18:45<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.23235" lon="36.9096">
+  <ele>152.4</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G38S</name>
+  <desc>06-НОЯ-10 13:09:30</desc>
+  <xdesc>06-НОЯ-10 13:09:30<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.22826" lon="36.91768">
+  <ele>136.5504</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G38N</name>
+  <desc>06-НОЯ-10 12:56:39</desc>
+  <xdesc>06-НОЯ-10 12:56:39<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.232403" lon="36.902573">
+  <ele>149.9616</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G39</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.221209" lon="36.924175">
+  <ele>138.9888</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G40</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.212034" lon="36.953832">
+  <ele>139.9032</ele>
+  <time>2006-04-03T10:34:05.401Z</time>
+  <name>G41R</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.21326" lon="36.951396">
+  <ele>139.9032</ele>
+  <time>2006-04-03T10:34:05.393Z</time>
+  <name>G41V</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.211174" lon="36.939074">
+  <ele>136.8552</ele>
+  <time>2006-04-03T10:34:05.401Z</time>
+  <name>G42</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.18089" lon="37.00601">
+  <ele>140.8176</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G43</name>
+  <desc>31-АВГ-10 13:08:19</desc>
+  <xdesc>31-АВГ-10 13:08:19<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.163233" lon="36.980965">
+  <ele>0</ele>
+  <time>2011-07-21T12:09:46.69Z</time>
+  <name>G44</name>
+  <desc>Cлегка оборудованный слабый родник</desc>
+  <xdesc>Cлегка оборудованный слабый родник<br/><b>Далее:</b> </xdesc>
+  <sym>Waypoing</sym>
+ </wpt>
+ <wpt lat="55.13871" lon="37.13143">
+  <ele>163.6776</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G45</name>
+  <desc>31-АВГ-10 19:06:20</desc>
+  <xdesc>31-АВГ-10 19:06:20<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.10685" lon="37.07701">
+  <ele>138.9888</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G46</name>
+  <desc>31-АВГ-10 16:44:54</desc>
+  <xdesc>31-АВГ-10 16:44:54<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.11552" lon="36.9271">
+  <ele>137.16</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G47</name>
+  <desc>31-АВГ-10 15:02:24</desc>
+  <xdesc>31-АВГ-10 15:02:24<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.03891" lon="37.25953">
+  <ele>148.7424</ele>
+  <time>2006-06-28T09:16:35.414Z</time>
+  <name>G48</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.02584" lon="37.32485">
+  <ele>143.256</ele>
+  <time>2006-06-28T09:16:35.595Z</time>
+  <name>G49A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.02532" lon="37.3303">
+  <ele>142.9512</ele>
+  <time>2006-06-28T09:16:35.69Z</time>
+  <name>G49B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.02537" lon="37.3013">
+  <ele>121.6152</ele>
+  <time>2006-06-28T09:16:35.5Z</time>
+  <name>G50</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.02349" lon="37.28063">
+  <ele>135.3312</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G51</name>
+  <desc>30-CЕН-09 12:43:03</desc>
+  <xdesc>30-CЕН-09 12:43:03<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.02375" lon="37.27382">
+  <ele>126.1872</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G52A</name>
+  <desc>30-CЕН-09 13:07:24</desc>
+  <xdesc>30-CЕН-09 13:07:24<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.02343" lon="37.27214">
+  <ele>126.492</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G52B</name>
+  <desc>30-CЕН-09 13:15:08</desc>
+  <xdesc>30-CЕН-09 13:15:08<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.01664" lon="37.36144">
+  <ele>119.4816</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G53</name>
+  <desc>31-АВГ-09 11:25:31</desc>
+  <xdesc>31-АВГ-09 11:25:31<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.01053" lon="37.33674">
+  <ele>134.112</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G54</name>
+  <desc>31-АВГ-09 13:01:21</desc>
+  <xdesc>31-АВГ-09 13:01:21<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.97236" lon="37.36146">
+  <ele>160.02</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G55</name>
+  <desc>31-АВГ-09 15:25:52</desc>
+  <xdesc>31-АВГ-09 15:25:52<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.9678" lon="37.37379">
+  <ele>164.8968</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G56</name>
+  <desc>31-АВГ-09 17:47:39</desc>
+  <xdesc>31-АВГ-09 17:47:39<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.96087" lon="37.35745">
+  <ele>125.5776</ele>
+  <time>2006-10-24T09:54:03.43Z</time>
+  <name>G57A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="54.95952" lon="37.35653">
+  <ele>124.0536</ele>
+  <time>2006-10-24T09:54:03.62Z</time>
+  <name>G57B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="54.95856" lon="37.35561">
+  <ele>123.7488</ele>
+  <time>2006-10-24T09:54:03.715Z</time>
+  <name>G57C</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="54.95478" lon="37.35434">
+  <ele>131.9784</ele>
+  <time>2006-10-24T09:54:03.81Z</time>
+  <name>G57D</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="54.95243" lon="37.3461">
+  <ele>119.4816</ele>
+  <time>2006-10-24T09:54:03.896Z</time>
+  <name>G58A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="54.95303" lon="37.34637">
+  <ele>119.4816</ele>
+  <time>2006-10-24T09:54:03.991Z</time>
+  <name>G58B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="54.95272" lon="37.34632">
+  <ele>119.4816</ele>
+  <time>2006-10-24T09:54:04.086Z</time>
+  <name>G58C</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="54.95136" lon="37.34555">
+  <ele>120.396</ele>
+  <time>2006-10-24T09:54:04.276Z</time>
+  <name>G58D</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.03627" lon="37.11254">
+  <ele>160.3248</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G59</name>
+  <desc>18-АВГ-10 13:33:44</desc>
+  <xdesc>18-АВГ-10 13:33:44<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.079225" lon="36.860858">
+  <ele>0</ele>
+  <time>2011-07-21T12:09:46.215Z</time>
+  <name>G60</name>
+  <desc>Родник в бетонном кольце метрах в 10 от опушки леса</desc>
+  <xdesc>Родник в бетонном кольце метрах в 10 от опушки леса<br/><b>Далее:</b> </xdesc>
+  <sym>Waypoing</sym>
+ </wpt>
+ <wpt lat="54.95776" lon="37.17894">
+  <ele>160.9344</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G61</name>
+  <desc>18-АВГ-10 10:57:51</desc>
+  <xdesc>18-АВГ-10 10:57:51<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.94982" lon="37.14763">
+  <ele>148.4376</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G62</name>
+  <desc>18-АВГ-10 11:43:41</desc>
+  <xdesc>18-АВГ-10 11:43:41<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.85061" lon="37.14636">
+  <ele>159.7152</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G63</name>
+  <desc>09-ДЕК-11 13:30:58</desc>
+  <xdesc>09-ДЕК-11 13:30:58<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.84855" lon="37.16416">
+  <ele>147.2184</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G64A</name>
+  <desc>09-ДЕК-11 12:42:22</desc>
+  <xdesc>09-ДЕК-11 12:42:22<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.84824" lon="37.16383">
+  <ele>158.496</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G64B</name>
+  <desc>09-ДЕК-11 12:53:43</desc>
+  <xdesc>09-ДЕК-11 12:53:43<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.8482" lon="37.16396">
+  <ele>151.1808</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G64C</name>
+  <desc>09-ДЕК-11 12:57:39</desc>
+  <xdesc>09-ДЕК-11 12:57:39<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.99495" lon="36.50951">
+  <ele>192.024</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G65</name>
+  <desc>24-CЕН-09 10:29:09</desc>
+  <xdesc>24-CЕН-09 10:29:09<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.96585" lon="36.59484">
+  <ele>198.12</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G66</name>
+  <desc>24-CЕН-09 13:20:03</desc>
+  <xdesc>24-CЕН-09 13:20:03<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.9499" lon="36.55876">
+  <ele>199.0344</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G67</name>
+  <desc>24-CЕН-09 14:13:19</desc>
+  <xdesc>24-CЕН-09 14:13:19<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.76853" lon="37.24811">
+  <ele>154.5336</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>G68</name>
+  <desc>13-ОКТ-12 12:15:01</desc>
+  <xdesc>13-ОКТ-12 12:15:01<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="54.762196" lon="37.248353">
+  <ele>155.1432</ele>
+  <time>2011-11-10T22:06:59.293Z</time>
+  <name>G69</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.482835" lon="37.36831">
+  <ele>156.972</ele>
+  <time>2011-11-14T10:33:42.782Z</time>
+  <name>G70</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.434406" lon="36.850186">
+  <ele>135.0264</ele>
+  <time>2011-11-14T10:21:06.454Z</time>
+  <name>G71A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.433814" lon="36.851131">
+  <ele>139.5984</ele>
+  <time>2011-11-14T10:23:08.986Z</time>
+  <name>G71B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.432716" lon="36.853537">
+  <ele>118.2624</ele>
+  <time>2011-11-14T10:24:28.284Z</time>
+  <name>G71C</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.439097" lon="36.819006">
+  <ele>125.2728</ele>
+  <time>2011-11-10T22:47:23.418Z</time>
+  <name>G72</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.447998" lon="36.793858">
+  <ele>125.2728</ele>
+  <time>2011-11-10T22:36:47.108Z</time>
+  <name>G73</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.440638" lon="36.733296">
+  <ele>125.2728</ele>
+  <time>2011-11-10T22:29:16.635Z</time>
+  <name>G74</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.431886" lon="36.645689">
+  <ele>178.9176</ele>
+  <time>2011-11-10T22:20:48.785Z</time>
+  <name>G75</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="54.424828" lon="36.65053">
+  <ele>119.1768</ele>
+  <time>2011-11-10T22:24:17.683Z</time>
+  <name>G76</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <xsct>
+  <name>1</name>
+  <desc></desc>
+  <xwptref name="G01A"/>
+  <xwptref name="G01B"/>
+  <xwptref name="G01D"/>
+  <xwptref name="G01F"/>
+  <xwptref name="G01C"/>
+  <xwptref name="G02"/>
+  <xwptref name="G03"/>
+  <xwptref name="G04"/>
+  <xwptref name="G05"/>
+  <xwptref name="G06"/>
+  <xwptref name="G07A"/>
+  <xwptref name="G07B"/>
+  <xwptref name="G08"/>
+  <xwptref name="G09"/>
+  <xwptref name="G10"/>
+  <xwptref name="G11"/>
+  <xwptref name="G12N"/>
+  <xwptref name="G12V"/>
+  <xwptref name="G13"/>
+  <xwptref name="G14A"/>
+  <xwptref name="G14B"/>
+  <xwptref name="G15"/>
+  <xwptref name="G16"/>
+  <xwptref name="G17"/>
+  <xwptref name="G18"/>
+  <xwptref name="G19"/>
+  <xwptref name="G20"/>
+  <xwptref name="G21"/>
+  <xwptref name="G22"/>
+  <xwptref name="G23"/>
+  <xwptref name="G24"/>
+  <xwptref name="G25"/>
+  <xwptref name="G26A"/>
+  <xwptref name="G26B"/>
+  <xwptref name="G27A"/>
+  <xwptref name="G27B"/>
+  <xwptref name="G27C"/>
+  <xwptref name="G27D"/>
+  <xwptref name="G28"/>
+  <xwptref name="G29"/>
+  <xwptref name="G30"/>
+  <xwptref name="G31"/>
+  <xwptref name="G32A"/>
+  <xwptref name="G32B"/>
+  <xwptref name="G32C"/>
+  <xwptref name="G33"/>
+  <xwptref name="G34A"/>
+  <xwptref name="G34B"/>
+  <xwptref name="G35"/>
+  <xwptref name="G36A"/>
+  <xwptref name="G36B"/>
+  <xwptref name="G37"/>
+  <xwptref name="G38V"/>
+  <xwptref name="G38S"/>
+  <xwptref name="G38N"/>
+  <xwptref name="G39"/>
+  <xwptref name="G40"/>
+  <xwptref name="G41R"/>
+  <xwptref name="G41V"/>
+  <xwptref name="G42"/>
+  <xwptref name="G43"/>
+  <xwptref name="G44"/>
+  <xwptref name="G45"/>
+  <xwptref name="G46"/>
+  <xwptref name="G47"/>
+  <xwptref name="G48"/>
+  <xwptref name="G49A"/>
+  <xwptref name="G49B"/>
+  <xwptref name="G50"/>
+  <xwptref name="G51"/>
+  <xwptref name="G52A"/>
+  <xwptref name="G52B"/>
+  <xwptref name="G53"/>
+  <xwptref name="G54"/>
+  <xwptref name="G55"/>
+  <xwptref name="G56"/>
+  <xwptref name="G57A"/>
+  <xwptref name="G57B"/>
+  <xwptref name="G57C"/>
+  <xwptref name="G57D"/>
+  <xwptref name="G58A"/>
+  <xwptref name="G58B"/>
+  <xwptref name="G58C"/>
+  <xwptref name="G58D"/>
+  <xwptref name="G59"/>
+  <xwptref name="G60"/>
+  <xwptref name="G61"/>
+  <xwptref name="G62"/>
+  <xwptref name="G63"/>
+  <xwptref name="G64A"/>
+  <xwptref name="G64B"/>
+  <xwptref name="G64C"/>
+  <xwptref name="G65"/>
+  <xwptref name="G66"/>
+  <xwptref name="G67"/>
+  <xwptref name="G68"/>
+  <xwptref name="G69"/>
+  <xwptref name="G70"/>
+  <xwptref name="G71A"/>
+  <xwptref name="G71B"/>
+  <xwptref name="G71C"/>
+  <xwptref name="G72"/>
+  <xwptref name="G73"/>
+  <xwptref name="G74"/>
+  <xwptref name="G75"/>
+  <xwptref name="G76"/>
+ </xsct>
+</gpx>

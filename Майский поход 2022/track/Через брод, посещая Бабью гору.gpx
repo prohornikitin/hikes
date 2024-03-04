@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2022-01-10T22:44:06.679Z</time>
+	</metadata>
+	<trk>
+		<name>Через брод, посещая Бабью гору.</name>
+		<trkseg>
+			<trkpt lat="56.758040" lon="39.350710"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.759687" lon="39.355946"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.766085" lon="39.366245"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.770694" lon="39.372339"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.777937" lon="39.378262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.783791" lon="39.372425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.788963" lon="39.379635"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.788989" lon="39.383041"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789321" lon="39.383304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789545" lon="39.383154"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789594" lon="39.382961"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789762" lon="39.383352"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.790012" lon="39.384130"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789680" lon="39.385332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789348" lon="39.385804"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789183" lon="39.385294"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.789342" lon="39.385852"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.790267" lon="39.384087"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.791390" lon="39.382714"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.791713" lon="39.382108"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.792941" lon="39.382027"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.794997" lon="39.382199"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.795373" lon="39.382135"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.799515" lon="39.380407"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.801536" lon="39.380322"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.809149" lon="39.373369"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.819672" lon="39.368649"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.826060" lon="39.354143"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.836485" lon="39.341955"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.846390" lon="39.325132"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.851460" lon="39.310112"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.855214" lon="39.286680"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

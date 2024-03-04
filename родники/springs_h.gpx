@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<gpx version="1.1" creator="rconv.exe: OziExplorer WPT and PLT to GPX converter">
+ <metadata>
+  <name>springs_h</name>
+  <desc>Сектор H</desc>
+  <bounds minlat="55.01664" maxlat="55.664229" minlon="35.542525" maxlon="37.34199"/>
+  <xlink href="Сектор H.wpt"/>
+ </metadata>
+ <wpt lat="55.662735" lon="37.336474">
+  <ele>153.924</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H01</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.65461" lon="37.34199">
+  <ele>153.0096</ele>
+  <time>2006-07-20T22:19:44.711Z</time>
+  <name>H02</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.663563" lon="37.328684">
+  <ele>156.972</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H03</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.664229" lon="37.312318">
+  <ele>163.068</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H04A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.66401" lon="37.317302">
+  <ele>161.8488</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H04B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.476115" lon="36.619748">
+  <ele>164.8968</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H05</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.408805" lon="36.59384">
+  <ele>167.0304</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H06</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.450618" lon="36.566427">
+  <ele>166.116</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H07</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.520761" lon="36.437661">
+  <ele>195.9864</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H08</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.351486" lon="36.431294">
+  <ele>178.0032</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H09</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.317019" lon="36.370577">
+  <ele>167.0304</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H10</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.339894" lon="36.340556">
+  <ele>0</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H11</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.226962" lon="36.430352">
+  <ele>0</ele>
+  <time>2006-04-03T10:34:05.41Z</time>
+  <name>H12</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.20851" lon="36.45124">
+  <ele>151.4856</ele>
+  <time>2007-06-20T09:49:59.842Z</time>
+  <name>H13</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.256094" lon="36.348777">
+  <time>2010-04-12T14:27:22.642Z</time>
+  <name>H14</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.2081" lon="36.38079">
+  <ele>151.4856</ele>
+  <time>2007-06-20T09:49:59.937Z</time>
+  <name>H15</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.20619" lon="36.36209">
+  <ele>144.4752</ele>
+  <time>2007-06-20T09:50:00.11Z</time>
+  <name>H16A</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.20639" lon="36.3623">
+  <ele>142.3416</ele>
+  <time>2007-06-20T09:50:00.032Z</time>
+  <name>H16B</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.20454" lon="36.33918">
+  <ele>141.732</ele>
+  <time>2007-06-20T09:50:00.214Z</time>
+  <name>H17</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.20916" lon="36.30888">
+  <ele>145.3896</ele>
+  <time>2007-06-20T09:50:00.499Z</time>
+  <name>H18</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.329136" lon="36.201374">
+  <ele>160.02</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H19</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.402731" lon="36.134221">
+  <ele>164.8968</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H20N</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.404406" lon="36.132852">
+  <ele>175.8696</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H20V</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.297906" lon="36.19929">
+  <ele>160.02</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H21</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.282007" lon="36.160689">
+  <ele>149.9616</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H22U</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.21647" lon="36.26315">
+  <ele>152.4</ele>
+  <time>2007-06-20T09:50:00.309Z</time>
+  <name>H23</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.21807" lon="36.24129">
+  <ele>148.7424</ele>
+  <time>2007-06-20T09:50:00.404Z</time>
+  <name>H24</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Flag</sym>
+ </wpt>
+ <wpt lat="55.16477" lon="36.62292">
+  <ele>151.1808</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H25</name>
+  <desc>28-CЕН-09 10:36:44</desc>
+  <xdesc>28-CЕН-09 10:36:44<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.237086" lon="36.204318">
+  <ele>148.1328</ele>
+  <time>2011-03-27T10:49:42.997Z</time>
+  <name>H26</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.208324" lon="36.225293">
+  <ele>0</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H27</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.13273" lon="36.52633">
+  <ele>128.3208</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H28</name>
+  <desc>28-CЕН-09 12:38:20</desc>
+  <xdesc>28-CЕН-09 12:38:20<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.12793" lon="36.5227">
+  <ele>127.1016</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H29A</name>
+  <desc>28-CЕН-09 12:46:16</desc>
+  <xdesc>28-CЕН-09 12:46:16<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.12733" lon="36.52333">
+  <ele>128.6256</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H29B</name>
+  <desc>28-CЕН-09 12:49:07</desc>
+  <xdesc>28-CЕН-09 12:49:07<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.12634" lon="36.52451">
+  <ele>128.9304</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H29C</name>
+  <desc>28-CЕН-09 12:54:47</desc>
+  <xdesc>28-CЕН-09 12:54:47<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.12607" lon="36.52509">
+  <ele>128.9304</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H29D</name>
+  <desc>28-CЕН-09 12:56:25</desc>
+  <xdesc>28-CЕН-09 12:56:25<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.1002" lon="36.53332">
+  <ele>121.6152</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H30A</name>
+  <desc>28-CЕН-09 13:46:11</desc>
+  <xdesc>28-CЕН-09 13:46:11<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.1002" lon="36.53392">
+  <ele>121.92</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H30B</name>
+  <desc>28-CЕН-09 13:50:43</desc>
+  <xdesc>28-CЕН-09 13:50:43<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.08807" lon="36.55608">
+  <ele>125.2728</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H31A</name>
+  <desc>28-CЕН-09 16:11:59</desc>
+  <xdesc>28-CЕН-09 16:11:59<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.08408" lon="36.55513">
+  <ele>127.1016</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H31B</name>
+  <desc>28-CЕН-09 16:27:48</desc>
+  <xdesc>28-CЕН-09 16:27:48<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.045711" lon="36.394041">
+  <ele>131.064</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H32</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.033922" lon="36.427004">
+  <ele>132.8928</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H33</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.01664" lon="36.45566">
+  <ele>139.2936</ele>
+  <time>1900-03--60T00:00:00Z</time>
+  <name>H34</name>
+  <desc>21-JUN-08 12:27:34</desc>
+  <xdesc>21-JUN-08 12:27:34<br/><b>Далее:</b> </xdesc>
+  <sym>Ozi 141</sym>
+ </wpt>
+ <wpt lat="55.079012" lon="36.194315">
+  <ele>0</ele>
+  <time>2006-04-03T10:34:05.419Z</time>
+  <name>H35</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <wpt lat="55.509203" lon="35.542525">
+  <ele>0</ele>
+  <time>2006-04-16T07:47:23.513Z</time>
+  <name>H36</name>
+  <desc></desc>
+  <xdesc><br/><b>Далее:</b> </xdesc>
+  <sym>Airport</sym>
+ </wpt>
+ <xsct>
+  <name>1</name>
+  <desc></desc>
+  <xwptref name="H01"/>
+  <xwptref name="H02"/>
+  <xwptref name="H03"/>
+  <xwptref name="H04A"/>
+  <xwptref name="H04B"/>
+  <xwptref name="H05"/>
+  <xwptref name="H06"/>
+  <xwptref name="H07"/>
+  <xwptref name="H08"/>
+  <xwptref name="H09"/>
+  <xwptref name="H10"/>
+  <xwptref name="H11"/>
+  <xwptref name="H12"/>
+  <xwptref name="H13"/>
+  <xwptref name="H14"/>
+  <xwptref name="H15"/>
+  <xwptref name="H16A"/>
+  <xwptref name="H16B"/>
+  <xwptref name="H17"/>
+  <xwptref name="H18"/>
+  <xwptref name="H19"/>
+  <xwptref name="H20N"/>
+  <xwptref name="H20V"/>
+  <xwptref name="H21"/>
+  <xwptref name="H22U"/>
+  <xwptref name="H23"/>
+  <xwptref name="H24"/>
+  <xwptref name="H25"/>
+  <xwptref name="H26"/>
+  <xwptref name="H27"/>
+  <xwptref name="H28"/>
+  <xwptref name="H29A"/>
+  <xwptref name="H29B"/>
+  <xwptref name="H29C"/>
+  <xwptref name="H29D"/>
+  <xwptref name="H30A"/>
+  <xwptref name="H30B"/>
+  <xwptref name="H31A"/>
+  <xwptref name="H31B"/>
+  <xwptref name="H32"/>
+  <xwptref name="H33"/>
+  <xwptref name="H34"/>
+  <xwptref name="H35"/>
+  <xwptref name="H36"/>
+ </xsct>
+</gpx>
