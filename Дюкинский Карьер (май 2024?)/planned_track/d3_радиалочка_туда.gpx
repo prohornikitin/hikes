@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2024-04-14T01:00:52.435Z</time>
+	</metadata>
+	<trk>
+		<name>d3_радиалочка_туда</name>
+		<trkseg>
+			<trkpt lat="56.005322" lon="41.062970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.001781" lon="41.063056"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.995000" lon="41.058550"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.988713" lon="41.055181"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.983306" lon="41.058786"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.981825" lon="41.058142"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.981654" lon="41.056554"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.978199" lon="41.060245"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.977276" lon="41.061962"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.976053" lon="41.060116"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.971654" lon="41.062992"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.967577" lon="41.069901"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.964209" lon="41.073377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.961376" lon="41.076939"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

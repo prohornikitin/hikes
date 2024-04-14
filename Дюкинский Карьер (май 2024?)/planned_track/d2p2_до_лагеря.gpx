@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2024-04-14T01:00:50.010Z</time>
+	</metadata>
+	<trk>
+		<name>d2p2_до_лагеря</name>
+		<trkseg>
+			<trkpt lat="56.002940" lon="41.033423"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.004120" lon="41.035183"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.001910" lon="41.062906"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.005085" lon="41.063292"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

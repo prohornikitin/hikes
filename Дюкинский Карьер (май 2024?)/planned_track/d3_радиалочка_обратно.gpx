@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2024-04-14T01:00:54.618Z</time>
+	</metadata>
+	<trk>
+		<name>d3_радиалочка_обратно</name>
+		<trkseg>
+			<trkpt lat="55.961162" lon="41.076810"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.964745" lon="41.072776"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.967921" lon="41.081617"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.973543" lon="41.089728"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.974229" lon="41.089041"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.975967" lon="41.092753"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.976203" lon="41.096594"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.976676" lon="41.110113"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.978456" lon="41.113975"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.982104" lon="41.114919"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.984272" lon="41.114576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.986267" lon="41.111701"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="55.990087" lon="41.111314"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.004871" lon="41.092346"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.004056" lon="41.087196"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.002296" lon="41.074536"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.001352" lon="41.067112"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.001845" lon="41.062691"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.005214" lon="41.062992"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

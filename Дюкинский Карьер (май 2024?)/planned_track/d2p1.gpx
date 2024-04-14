@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2024-04-14T01:00:56.858Z</time>
+	</metadata>
+	<trk>
+		<name>d2p1</name>
+		<trkseg>
+			<trkpt lat="56.003862" lon="41.035590"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.019870" lon="41.020634"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.033627" lon="41.015284"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.044551" lon="40.998900"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.042443" lon="40.998434"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.050407" lon="40.985884"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.051646" lon="40.985870"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.053395" lon="40.984025"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.066847" lon="40.989941"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.079200" lon="40.980187"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.110400" lon="40.982955"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.110400" lon="40.988491"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.109005" lon="40.991023"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
