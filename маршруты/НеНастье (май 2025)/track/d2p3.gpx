@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2025-04-30T19:05:31.730Z</time>
+	</metadata>
+	<trk>
+		<name>d2p3</name>
+		<trkseg>
+			<trkpt lat="54.823199" lon="37.000288"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.824129" lon="37.000262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.825192" lon="36.998159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.827590" lon="36.999661"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.826824" lon="37.005584"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.830210" lon="36.997344"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.829963" lon="37.011334"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.835698" lon="37.000648"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.838046" lon="36.999533"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.837873" lon="36.997945"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.838466" lon="36.994082"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.839178" lon="36.991207"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.846196" lon="36.997902"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.849200" lon="36.981646"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.851463" lon="36.967286"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.853633" lon="36.954712"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.856454" lon="36.937537"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.856479" lon="36.923418"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.861118" lon="36.922834"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

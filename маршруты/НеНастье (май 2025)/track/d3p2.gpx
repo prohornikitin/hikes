@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2025-04-30T19:05:34.858Z</time>
+	</metadata>
+	<trk>
+		<name>d3p2</name>
+		<trkseg>
+			<trkpt lat="54.864674" lon="37.214367"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.859734" lon="37.211792"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.859438" lon="37.207844"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.854893" lon="37.204926"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.850742" lon="37.199947"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.850095" lon="37.197956"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.851651" lon="37.195579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.852170" lon="37.187382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.848884" lon="37.187468"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.846843" lon="37.180352"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.845978" lon="37.179022"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.846309" lon="37.173228"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.847078" lon="37.171010"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.846470" lon="37.170533"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.847038" lon="37.168709"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.848020" lon="37.165615"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.848313" lon="37.165262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="54.848401" lon="37.164587"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
