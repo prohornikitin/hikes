@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="https://www.locusmap.app">
+	<metadata>
+		<desc>File with points/tracks from Locus Map/4.33.0</desc>
+		<time>2026-04-12T17:56:57.700Z</time>
+	</metadata>
+<trk>
+	<name>d2p2 (лагерь)</name>
+	<extensions>
+		<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+			<color>0000FF</color>
+			<opacity>0.70</opacity>
+			<width>6.0</width>
+			<extensions>
+				<locus:lsColorBase>#B30000FF</locus:lsColorBase>
+				<locus:lsWidth>6.0</locus:lsWidth>
+				<locus:lsUnits>PIXELS</locus:lsUnits>
+			</extensions>
+		</line>
+		<locus:activity>hiking</locus:activity>
+		<locus:rteComputeType>10</locus:rteComputeType>
+	</extensions>
+<trkseg>
+<trkpt lat="56.0038910" lon="41.0357666">
+	<ele>136.75</ele>
+	<time>1970-01-01T00:00:00.000Z</time>
+</trkpt>
+<trkpt lat="56.0038643" lon="41.0358963">
+	<ele>137.00</ele>
+	<time>1970-01-01T00:00:07.568Z</time>
+</trkpt>
+<trkpt lat="56.0037155" lon="41.0366745">
+	<ele>138.25</ele>
+	<time>1970-01-01T00:00:57.394Z</time>
+</trkpt>
+<trkpt lat="56.0036659" lon="41.0381012">
+	<ele>137.25</ele>
+	<time>1970-01-01T00:02:20.671Z</time>
+</trkpt>
+<trkpt lat="56.0031662" lon="41.0447197">
+	<ele>145.75</ele>
+	<time>1970-01-01T00:09:08.957Z</time>
+</trkpt>
+<trkpt lat="56.0029373" lon="41.0478210">
+	<ele>155.00</ele>
+	<time>1970-01-01T00:12:40.161Z</time>
+</trkpt>
+<trkpt lat="56.0026588" lon="41.0516014">
+	<ele>157.50</ele>
+	<time>1970-01-01T00:16:35.133Z</time>
+</trkpt>
+<trkpt lat="56.0024796" lon="41.0545387">
+	<ele>159.50</ele>
+	<time>1970-01-01T00:19:34.371Z</time>
+</trkpt>
+<trkpt lat="56.0023232" lon="41.0562782">
+	<ele>162.25</ele>
+	<time>1970-01-01T00:21:24.637Z</time>
+</trkpt>
+<trkpt lat="56.0020905" lon="41.0597076">
+	<ele>170.00</ele>
+	<time>1970-01-01T00:25:13.510Z</time>
+</trkpt>
+<trkpt lat="56.0018463" lon="41.0632668">
+	<ele>168.00</ele>
+	<time>1970-01-01T00:28:48.724Z</time>
+</trkpt>
+<trkpt lat="56.0021095" lon="41.0633125">
+	<ele>168.50</ele>
+	<time>1970-01-01T00:29:16.528Z</time>
+</trkpt>
+<trkpt lat="56.0023956" lon="41.0633125">
+	<ele>168.75</ele>
+	<time>1970-01-01T00:29:47.264Z</time>
+</trkpt>
+<trkpt lat="56.0024223" lon="41.0633125">
+	<ele>168.75</ele>
+	<time>1970-01-01T00:29:50.134Z</time>
+</trkpt>
+<trkpt lat="56.0029373" lon="41.0633125">
+	<ele>171.00</ele>
+	<time>1970-01-01T00:30:47.761Z</time>
+</trkpt>
+<trkpt lat="56.0034027" lon="41.0631256">
+	<ele>174.00</ele>
+	<time>1970-01-01T00:31:39.669Z</time>
+</trkpt>
+<trkpt lat="56.0037880" lon="41.0631142">
+	<ele>176.50</ele>
+	<time>1970-01-01T00:32:24.147Z</time>
+</trkpt>
+<trkpt lat="56.0041504" lon="41.0630150">
+	<ele>178.75</ele>
+	<time>1970-01-01T00:33:07.893Z</time>
+</trkpt>
+<trkpt lat="56.0046425" lon="41.0630341">
+	<ele>178.50</ele>
+	<time>1970-01-01T00:34:03.417Z</time>
+</trkpt>
+<trkpt lat="56.0052147" lon="41.0631256">
+	<ele>177.75</ele>
+	<time>1970-01-01T00:35:04.747Z</time>
+</trkpt>
+<trkpt lat="56.0059280" lon="41.0639534">
+	<ele>178.75</ele>
+	<time>1970-01-01T00:36:36.801Z</time>
+</trkpt>
+<trkpt lat="56.0067368" lon="41.0645523">
+	<ele>176.75</ele>
+	<time>1970-01-01T00:38:11.979Z</time>
+</trkpt>
+<trkpt lat="56.0067787" lon="41.0645866">
+	<ele>176.50</ele>
+	<time>1970-01-01T00:38:16.498Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

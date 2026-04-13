@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-12T18:00:46.914Z</time>
+	</metadata>
+	<wpt lat="56.022756" lon="41.019698">
+		<name>Перекус</name>
+	</wpt>
+	<trk>
+		<name>d2p1</name>
+		<trkseg>
+			<trkpt lat="56.110451" lon="40.983311"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.110443" lon="40.982918"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.100010" lon="40.982159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.089500" lon="40.981609"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.081520" lon="40.980808"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.079231" lon="40.980267"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.066887" lon="40.989723"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.057953" lon="40.985909"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.053204" lon="40.984070"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.051765" lon="40.985786"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.050526" lon="40.985958"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.033703" lon="41.015328"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.026657" lon="41.017983"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.022736" lon="41.019661"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.019733" lon="41.020718"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.006577" lon="41.032841"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.004452" lon="41.034706"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.003929" lon="41.035576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="56.003819" lon="41.035389"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
